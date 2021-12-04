@@ -7,7 +7,7 @@
 
 # git clone https://github.com/yazidvr/virus.git
 
-# cd vbug
+# cd virus
 
-# python vbug.py
+# python virus.py
 
