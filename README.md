@@ -9,5 +9,6 @@
 
 # cd virus
 
-# python virus.py
+# python vbug.py
+
 
